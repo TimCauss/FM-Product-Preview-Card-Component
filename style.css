@@ -14,7 +14,7 @@ body {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    outline: 1px solid black;
+    /* outline: 1px solid black; */
 }
 p {
     font-size: 14px;
